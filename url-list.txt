@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 bayramdenizdeguzel.com
 esube-teb-haziranfirsatlari-tr.com
 denizbayramgununde.com
@@ -23,8 +22,6 @@ bayramhediyeniz.com
 denizcekilissongn.com
 denizbankasic.com
 tebclas.com
-=======
->>>>>>> a66157c7e563fd6cd64fad64afcc8a98d4839311
 bonus-papara.com
 iade-uygulamasi.com
 www-online-cepsube-bayramfirsatlari-com.ml
